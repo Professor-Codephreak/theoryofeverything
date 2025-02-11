@@ -93,7 +93,7 @@ ight]
 Z = \int \mathcal{D}\phi \, e^{i S[\phi]}
 \]
 
-### 2️⃣ Loop Corrections and Renormalization
+### 2️⃣ <a href="https://github.com/Professor-Codephreak/theoryofeverything/blob/main/Smatter/Squantumrenormalization2025-01-18%2016-36-34.png">Loop Corrections and Renormalization</a>
 
 \[
 S_{	ext{quantum}} = \sum_{n=1}^{\infty} \hbar^n S_n
