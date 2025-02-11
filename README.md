@@ -66,7 +66,7 @@ ight]
 
 ## 🌌 III. Gauge Field Action \( S_{	ext{gauge}} \)
 
-### 1️⃣ Yang-Mills Action (Non-Abelian Gauge Fields)
+### 1️⃣ <a href="https://github.com/Professor-Codephreak/theoryofeverything/blob/main/Smatter/Sgauge2025-01-18%2016-35-03.png">Yang-Mills Action (Non-Abelian Gauge Fields)</a>
 
 \[
 S_{	ext{gauge}} = -rac{1}{4} \int d^4x \, \sqrt{-g} \, F_{\mu
