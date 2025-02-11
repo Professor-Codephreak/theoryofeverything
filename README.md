@@ -55,7 +55,7 @@ ight)
 S_{	ext{fermion}} = \int d^4x \, \sqrt{-g} \, ar{\psi} (i \gamma^\mu D_\mu - m) \psi
 \]
 
-### 2️⃣ Higgs Field (Spontaneous Symmetry Breaking)
+### 2️⃣ <a href="https://github.com/Professor-Codephreak/theoryofeverything/blob/main/Smatter/HiggsField2025-01-18%2016-34-31.png">Higgs Field (Spontaneous Symmetry Breaking)</a>
 
 \[
 S_{	ext{Higgs}} = \int d^4x \, \sqrt{-g} \, \left[ (D_\mu \phi)^\dagger (D^\mu \phi) - V(\phi) 
