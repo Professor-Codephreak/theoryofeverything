@@ -74,7 +74,7 @@ u}^a F^{\mu
 u}_a
 \]
 
-### 2️⃣ Supersymmetric Gauge Fields
+### 2️⃣ <a href="https://github.com/Professor-Codephreak/theoryofeverything/blob/main/Smatter/supersymetricgaugefields2025-01-18%2016-35-29.png">Supersymmetric Gauge Fields</a>
 
 \[
 S_{	ext{SUSY-gauge}} = \int d^4x \, \left[ -rac{1}{4} F_{\mu
