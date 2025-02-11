@@ -101,7 +101,7 @@ S_{	ext{quantum}} = \sum_{n=1}^{\infty} \hbar^n S_n
 
 ---
 
-## 🌀 V. Full Master Equation
+## 🌀 V. <a href="https://github.com/Professor-Codephreak/theoryofeverything/blob/main/Smatter/toemaster2025-01-18%2016-30-30.png">Full Master Equation</a>
 
 \[
 S = rac{1}{16\pi G} \int d^4x \, \sqrt{-g} \, (R - 2\Lambda) + \int d^4x \, \sqrt{-g} \left[ ar{\psi} (i \gamma^\mu D_\mu - m) \psi + (D_\mu \phi)^\dagger (D^\mu \phi) - V(\phi) - rac{1}{4} F_{\mu
