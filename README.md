@@ -114,13 +114,13 @@ ight] + S_{	ext{quantum}}
 
 ## 🔭 VI. Final Implications
 
-1. **Unified Physical Laws:** All forces and matter fields are combined.  
+1. **Unified Physical Laws:** All forces and matter fields are combined. 
 2. **Quantum Gravity:** Spacetime is quantized and emergent.  
 3. **Supersymmetry:** Balances matter and force particles.  
 4. **Dark Matter/Energy:** Naturally explained by quantum spacetime and SUSY.
 
 ---
 
-## 🚀 Unified Action Framework
+## 🚀 <a href="https://github.com/Professor-Codephreak/theoryofeverything/blob/main/Smatter/univiedaction2025-01-18%2016-31-46.png">Unified Action Framework</a>
 
 Unified Action Framework for the Theory of Everything seamlessly integrating gravity, matter, forces, with quantum corrections.
