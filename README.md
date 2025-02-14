@@ -19,7 +19,7 @@ Where:
 
 ---
 
-## I. Gravity Action \( S_{	ext{gravity}} \)
+## I. <a href="https://github.com/Professor-Codephreak/theoryofeverything/blob/main/toe.md">Gravity Action</a> \( S_{	ext{gravity}} \)
 
 ### 1️⃣ Einstein-Hilbert Action (Classical Gravity)
 
