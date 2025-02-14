@@ -92,5 +92,5 @@ Proof:
 By combining all forces, matter, and quantum effects, this formulation presents a blueprint for a complete Theory of Everything.
 
 Key Insight:
-It paves the way for experimental predictions, such as discovering supersymmetric particles, quantum gravity signals, or deviations in gravitational behavior.
+This paves the way for experimental predictions, such as discovering supersymmetric particles, quantum gravity signals, or deviations in gravitational behavior.
 This theory could explain phenomena like dark matter, dark energy, and the origin of spacetime.
