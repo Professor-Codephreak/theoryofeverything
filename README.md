@@ -166,7 +166,7 @@ Z = ∫ Dφ e^(iS[φ])
 Loop Corrections:<br />
 S_quantum = Σ(n=1 to ∞) ℏ^n S_n
 
-FULL MASTER EQUATION:<br />
+<a href="https://github.com/Professor-Codephreak/theoryofeverything/blob/main/Smatter/THEORYofEVERYTHING2025-01-18%2019-32-22.png">FULL MASTER EQUATION:</a><br />
 S = (1/16πG) ∫ d^4x √(-g)(R - 2Λ) + 
     ∫ d^4x √(-g)[ψ̄(iγ^μ D_μ - m)ψ + (D_μφ)†(D^μφ) - V(φ) - (1/4)F_μν^a F^μν_a] + 
     S_quantum
