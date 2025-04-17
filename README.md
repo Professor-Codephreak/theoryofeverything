@@ -101,7 +101,9 @@ $$
 
 # Clone the repository
 ```bash
-git clone [https://github.com/your-username/theoryofeverything.git](https://github.com/professor-Codephreak/theoryofeverything)
+git clone https://github.com/professor-Codephreak/theoryofeverything
+```
+```bash
 cd theoryofeverything
 ```
 ```bash
