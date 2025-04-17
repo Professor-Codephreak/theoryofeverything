@@ -450,14 +450,13 @@ We have made several improvements to maintain the mathematical integrity of the 
 - Ensured mathematical consistency across all terms
 
 ## References
-
-1. Weinberg, S. (1995). The Quantum Theory of Fields. Cambridge University Press.
-2. Rovelli, C. (2004). Quantum Gravity. Cambridge University Press.
-3. Green, M. B., Schwarz, J. H., & Witten, E. (1987). Superstring Theory. Cambridge University Press.
-4. Peskin, M. E., & Schroeder, D. V. (1995). An Introduction to Quantum Field Theory. Westview Press.
-5. Wald, R. M. (1984). General Relativity. University of Chicago Press.
-6. Zwiebach, B. (2009). A First Course in String Theory. Cambridge University Press.
-7. Srednicki, M. (2007). Quantum Field Theory. Cambridge University Press.
-8. Ashtekar, A., & Lewandowski, J. (2004). Background Independent Quantum Gravity: A Status Report. Classical and Quantum Gravity, 21(15), R53.
-9. Polchinski, J. (1998). String Theory. Cambridge University Press.
-10. Witten, E. (1995). String Theory Dynamics in Various Dimensions. Nuclear Physics B, 443(1-2), 85-126.
+Weinberg, S. (1995). The Quantum Theory of Fields. Cambridge University Press.
+Rovelli, C. (2004). Quantum Gravity. Cambridge University Press.
+Green, M. B., Schwarz, J. H., & Witten, E. (1987). Superstring Theory. Cambridge University Press.
+Peskin, M. E., & Schroeder, D. V. (1995). An Introduction to Quantum Field Theory. Westview Press.
+Wald, R. M. (1984). General Relativity. University of Chicago Press.
+Zwiebach, B. (2009). A First Course in String Theory. Cambridge University Press.
+Srednicki, M. (2007). Quantum Field Theory. Cambridge University Press.
+Ashtekar, A., & Lewandowski, J. (2004). Background Independent Quantum Gravity: A Status Report. Classical and Quantum Gravity, 21(15), R53.
+Polchinski, J. (1998). String Theory. Cambridge University Press.
+Witten, E. (1995). String Theory Dynamics in Various Dimensions. Nuclear Physics B, 443(1-2), 85-126.
