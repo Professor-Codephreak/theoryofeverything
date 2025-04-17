@@ -8,17 +8,17 @@ This documentation provides a comprehensive guide to understanding, using, and e
 
 ## Table of Contents
 
- [Core Concepts](#core-concepts)
- [Mathematical Framework](#mathematical-framework)
- [Project Structure](#project-structure)
- [Installation and Requirements](#installation-and-requirements)
- [Usage Guide](#usage-guide)
- [Component Formulas](#component-formulas)
- [Visualization Techniques](#visualization-techniques)
- [Theoretical Implications](#theoretical-implications)
- [Extending the Project](#extending-the-project)
- [Formula Improvements](#formula-improvements)
- [References](#references)
+ [Core Concepts](#core-concepts)<br />
+ [Mathematical Framework](#mathematical-framework)<br />
+ [Project Structure](#project-structure)<br />
+ [Installation and Requirements](#installation-and-requirements)<br />
+ [Usage Guide](#usage-guide)<br />
+ [Component Formulas](#component-formulas)<br />
+ [Visualization Techniques](#visualization-techniques)<br />
+ [Theoretical Implications](#theoretical-implications)<br />
+ [Extending the Project](#extending-the-project)<br />
+ [Formula Improvements](#formula-improvements)<br />
+ [References](#references)<br />
 
 ## Core Concepts
 
