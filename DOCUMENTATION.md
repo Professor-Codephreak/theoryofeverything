@@ -8,17 +8,17 @@ This documentation provides a comprehensive guide to understanding, using, and e
 
 ## Table of Contents
 
-1. [Core Concepts](#core-concepts)
-2. [Mathematical Framework](#mathematical-framework)
-3. [Project Structure](#project-structure)
-4. [Installation and Requirements](#installation-and-requirements)
-5. [Usage Guide](#usage-guide)
-6. [Component Formulas](#component-formulas)
-7. [Visualization Techniques](#visualization-techniques)
-8. [Theoretical Implications](#theoretical-implications)
-9. [Extending the Project](#extending-the-project)
-10. [Formula Improvements](#formula-improvements)
-11. [References](#references)
+ [Core Concepts](#core-concepts)
+ [Mathematical Framework](#mathematical-framework)
+ [Project Structure](#project-structure)
+ [Installation and Requirements](#installation-and-requirements)
+ [Usage Guide](#usage-guide)
+ [Component Formulas](#component-formulas)
+ [Visualization Techniques](#visualization-techniques)
+ [Theoretical Implications](#theoretical-implications)
+ [Extending the Project](#extending-the-project)
+ [Formula Improvements](#formula-improvements)
+ [References](#references)
 
 ## Core Concepts
 
@@ -41,7 +41,7 @@ Each component is implemented as a separate module with classes for different fo
 
 The gravity action includes three main formulations:
 
-1. **Einstein-Hilbert Action (Classical Gravity)**:
+**Einstein-Hilbert Action (Classical Gravity)**:
    ```
    S_gravity^EH = 1/(16πG) ∫d⁴x √(-g) (R - 2Λ)
    ```
@@ -51,7 +51,7 @@ The gravity action includes three main formulations:
    - R is the Ricci scalar curvature
    - Λ is the cosmological constant
 
-2. **Loop Quantum Gravity Action**:
+**Loop Quantum Gravity Action**:
    ```
    S_gravity^LQG = 1/(8πG) ∫d⁴x √(-g) ε^abc E_a^i E_b^j F_ij^c
    ```
@@ -60,7 +60,7 @@ The gravity action includes three main formulations:
    - E_a^i are the densitized triads (gravitational electric field)
    - F_ij^c is the curvature of the Ashtekar connection
 
-3. **String Theory Gravity Action**:
+**String Theory Gravity Action**:
    ```
    S_gravity^String = 1/(2κ²) ∫d^10x √(-g) e^{-2φ} [R + 4(∇φ)² - (1/12)H_μνρ H^μνρ]
    ```
@@ -73,7 +73,7 @@ The gravity action includes three main formulations:
 
 The matter action includes two main components:
 
-1. **Fermion Fields (Dirac Action)**:
+**Fermion Fields (Dirac Action)**:
    ```
    S_fermion = ∫d⁴x √(-g) ψ̄(iγ^μ D_μ - m)ψ
    ```
@@ -84,7 +84,7 @@ The matter action includes two main components:
    - D_μ is the covariant derivative
    - m is the mass of the fermion
 
-2. **Higgs Field (Spontaneous Symmetry Breaking)**:
+**Higgs Field (Spontaneous Symmetry Breaking)**:
    ```
    S_Higgs = ∫d⁴x √(-g) [(D_μφ)†(D^μφ) - V(φ)]
    ```
@@ -97,7 +97,7 @@ The matter action includes two main components:
 
 The gauge field action includes two main components:
 
-1. **Yang-Mills Action (Non-Abelian Gauge Fields)**:
+**Yang-Mills Action (Non-Abelian Gauge Fields)**:
    ```
    S_gauge = -1/4 ∫d⁴x √(-g) F_μν^a F^μν_a
    ```
@@ -105,7 +105,7 @@ The gauge field action includes two main components:
    - F_μν^a is the field strength tensor
    - For SU(3): F_μν^a = ∂_μA_ν^a - ∂_νA_μ^a + g f^abc A_μ^b A_ν^c
 
-2. **Supersymmetric Gauge Fields**:
+**Supersymmetric Gauge Fields**:
    ```
    S_SUSY-gauge = ∫d⁴x [-1/4 F_μν F^μν + i λ̄γ^μ D_μλ]
    ```
@@ -117,7 +117,7 @@ The gauge field action includes two main components:
 
 The quantum corrections include two main components:
 
-1. **Path Integral Formulation**:
+**Path Integral Formulation**:
    ```
    Z = ∫ℙφ e^{iS[φ]}
    ```
@@ -126,7 +126,7 @@ The quantum corrections include two main components:
    - ℙφ represents the functional integration measure over all field configurations
    - S[φ] is the action functional
 
-2. **Loop Corrections and Renormalization**:
+**Loop Corrections and Renormalization**:
    ```
    S_quantum = ∑_{n=1}^∞ ℏ^n S_n
    ```
@@ -222,18 +222,20 @@ The project requires the following Python libraries:
 
 ### Installation
 
-1. Clone the repository:
-   ```
-   git clone [https://github.com/your-username/theoryofeverything.git](https://github.com/professor-Codephreak/theoryofeverything)
+Clone the repository:
+```bash
+   git clone https://github.com/professor-Codephreak/theoryofeverything
+```
+```bash
    cd theoryofeverything
-   ```
+```
 
-2. Install the required dependencies:
-   ```
+Install the required dependencies:
+```bash
    pip install numpy scipy sympy matplotlib
-   ```
+```
 
-3. (Optional) For PDF generation with LaTeX:
+(Optional) For PDF generation with LaTeX:
    - Install a LaTeX distribution (e.g., TeX Live, MiKTeX)
    - Ensure pdflatex is available in your PATH
 
@@ -241,32 +243,32 @@ The project requires the following Python libraries:
 
 ### Exploring the Theory of Everything
 
-1. Run the main visualization interface:
+Run the main visualization interface:
    ```
    python visualize_toe.py
    ```
    This provides a menu-driven interface to explore all aspects of the Theory of Everything.
 
-2. Explore the component formulas:
+ Explore the component formulas:
    ```
    python explore_toe_formulas.py
    ```
    This allows you to explore each component formula individually.
 
-3. Explore specific components:
+ Explore specific components:
    - For formula visualization: `python demonstrate_formulas.py`
    - For Schumann resonances: `python math/schumann.py`
    - For Theory of Everything core visualizations: `python math/toe.py`
 
 ### Generating Documentation
 
-1. Create a PDF with properly formatted equations:
+ Create a PDF with properly formatted equations:
    ```
    python create_toe_pdf.py
    ```
    This allows you to choose between matplotlib-based or LaTeX-based PDF generation.
 
-2. Generate a LaTeX document:
+Generate a LaTeX document:
    ```
    python generate_latex_toe.py
    ```
@@ -280,43 +282,43 @@ The component formulas are implemented in the `component_formulas` directory. Ea
 
 The gravity action is implemented in `component_formulas/gravity_action.py`. It includes three main classes:
 
-1. `EinsteinHilbertAction`: Implements the Einstein-Hilbert action for classical gravity.
+ `EinsteinHilbertAction`: Implements the Einstein-Hilbert action for classical gravity.
    - Methods for calculating the action, field equations, and visualizing spacetime curvature.
 
-2. `LoopQuantumGravity`: Implements the Loop Quantum Gravity extension.
+ `LoopQuantumGravity`: Implements the Loop Quantum Gravity extension.
    - Methods for visualizing quantum foam, calculating area spectrum, and visualizing area eigenvalues.
 
-3. `StringTheoryGravity`: Implements the String/M-Theory gravity.
+ `StringTheoryGravity`: Implements the String/M-Theory gravity.
    - Methods for visualizing string worldsheets and compactified extra dimensions.
 
 ### Matter Action
 
 The matter action is implemented in `component_formulas/matter_action.py`. It includes two main classes:
 
-1. `FermionAction`: Implements the Dirac action for fermion fields.
+ `FermionAction`: Implements the Dirac action for fermion fields.
    - Methods for calculating the Dirac equation, visualizing spinor fields, and visualizing the Dirac sea.
 
-2. `HiggsAction`: Implements the Higgs field with spontaneous symmetry breaking.
+ `HiggsAction`: Implements the Higgs field with spontaneous symmetry breaking.
    - Methods for calculating the Higgs potential, visualizing the Mexican hat potential, and visualizing symmetry breaking.
 
 ### Gauge Field Action
 
 The gauge field action is implemented in `component_formulas/gauge_action.py`. It includes two main classes:
 
-1. `YangMillsAction`: Implements the Yang-Mills action for non-Abelian gauge fields.
+ `YangMillsAction`: Implements the Yang-Mills action for non-Abelian gauge fields.
    - Methods for calculating the field strength tensor, visualizing field strength, and visualizing force unification.
 
-2. `SupersymmetricGaugeAction`: Implements the supersymmetric extension of gauge fields.
+ `SupersymmetricGaugeAction`: Implements the supersymmetric extension of gauge fields.
    - Methods for visualizing supersymmetry multiplets and supersymmetry breaking.
 
 ### Quantum Corrections
 
 The quantum corrections are implemented in `component_formulas/quantum_corrections.py`. It includes two main classes:
 
-1. `PathIntegral`: Implements the path integral formulation of quantum field theory.
+ `PathIntegral`: Implements the path integral formulation of quantum field theory.
    - Methods for Monte Carlo calculation of path integrals, visualizing paths, and visualizing Feynman diagrams.
 
-2. `LoopCorrections`: Implements loop corrections and renormalization.
+ `LoopCorrections`: Implements loop corrections and renormalization.
    - Methods for calculating loop corrections, visualizing quantum corrections, and visualizing renormalization flow.
 
 ### Unified Action
@@ -450,13 +452,17 @@ We have made several improvements to maintain the mathematical integrity of the 
 - Ensured mathematical consistency across all terms
 
 ## References
-Weinberg, S. (1995). The Quantum Theory of Fields. Cambridge University Press.
-Rovelli, C. (2004). Quantum Gravity. Cambridge University Press.
-Green, M. B., Schwarz, J. H., & Witten, E. (1987). Superstring Theory. Cambridge University Press.
-Peskin, M. E., & Schroeder, D. V. (1995). An Introduction to Quantum Field Theory. Westview Press.
-Wald, R. M. (1984). General Relativity. University of Chicago Press.
-Zwiebach, B. (2009). A First Course in String Theory. Cambridge University Press.
-Srednicki, M. (2007). Quantum Field Theory. Cambridge University Press.
-Ashtekar, A., & Lewandowski, J. (2004). Background Independent Quantum Gravity: A Status Report. Classical and Quantum Gravity, 21(15), R53.
-Polchinski, J. (1998). String Theory. Cambridge University Press.
-Witten, E. (1995). String Theory Dynamics in Various Dimensions. Nuclear Physics B, 443(1-2), 85-126.
+Weinberg, S. (1995). The Quantum Theory of Fields. Cambridge University Press<br />
+Rovelli, C. (2004). Quantum Gravity. Cambridge University Press<br />
+Green, M. B., Schwarz, J. H., & Witten, E. (1987). Superstring Theory. Cambridge University Press<br />
+Peskin, M. E., & Schroeder, D. V. (1995). An Introduction to Quantum Field Theory. Westview Press<br />
+Wald, R. M. (1984). General Relativity. University of Chicago Press<br />
+Zwiebach, B. (2009). A First Course in String Theory. Cambridge University Press<br />
+Srednicki, M. (2007). Quantum Field Theory. Cambridge University Press<br />
+Ashtekar, A., & Lewandowski, J. (2004). Background Independent Quantum Gravity: A Status Report. Classical and Quantum Gravity, 21(15), R53<br />
+Polchinski, J. (1998). String Theory. Cambridge University Press<br />
+Witten, E. (1995). String Theory Dynamics in Various Dimensions. Nuclear Physics B, 443(1-2), 85-126<br />
+
+
+Grand Unified Theory of Everything (c) 2025 Professor Codephreak MIT license
+editing and directional assistance Gregory L. Magnusson
