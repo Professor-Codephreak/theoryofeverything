@@ -224,7 +224,7 @@ The project requires the following Python libraries:
 
 1. Clone the repository:
    ```
-   git clone https://github.com/your-username/theoryofeverything.git
+   git clone [https://github.com/your-username/theoryofeverything.git](https://github.com/professor-Codephreak/theoryofeverything)
    cd theoryofeverything
    ```
 
