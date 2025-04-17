@@ -243,36 +243,37 @@ Install the required dependencies:
 
 ### Exploring the Theory of Everything
 
-Run the main visualization interface:
-   ```
-   python visualize_toe.py
-   ```
-   This provides a menu-driven interface to explore all aspects of the Theory of Everything.
+#Run the main visualization interface:
+#   ```
+#   python visualize_toe.py
+#   ```
+#   This provides a menu-driven interface to explore all aspects of the Theory of Everything.
 
- Explore the component formulas:
-   ```
-   python explore_toe_formulas.py
-   ```
-   This allows you to explore each component formula individually.
+# Explore the component formulas:
+#   ```
+#   python explore_toe_formulas.py
+#   ```
+#   This allows you to explore each component formula individually.
 
- Explore specific components:
-   - For formula visualization: `python demonstrate_formulas.py`
-   - For Schumann resonances: `python math/schumann.py`
-   - For Theory of Everything core visualizations: `python math/toe.py`
+# Explore specific components:
+#   - For formula visualization: `python demonstrate_formulas.py`
+3   - For Schumann resonances: `python math/schumann.py`
+#   - For Theory of Everything core visualizations: `python math/toe.py`
 
 ### Generating Documentation
 
- Create a PDF with properly formatted equations:
-   ```
-   python create_toe_pdf.py
-   ```
-   This allows you to choose between matplotlib-based or LaTeX-based PDF generation.
+# Create a PDF with properly formatted equations:
+#   ```
+#
+#   python create_toe_pdf.py
+#   ```
+#   This allows you to choose between matplotlib-based or LaTeX-based PDF generation.
 
-Generate a LaTeX document:
-   ```
-   python generate_latex_toe.py
-   ```
-   This creates a LaTeX document with professional typesetting.
+#Generate a LaTeX document:
+#   ```
+#   python generate_latex_toe.py
+#   ```
+#   This creates a LaTeX document with professional typesetting.
 
 ## Component Formulas
 
