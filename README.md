@@ -98,12 +98,20 @@ $$
 
 ## Installation
 
-```bash
+
 # Clone the repository
+```bash
 git clone [https://github.com/your-username/theoryofeverything.git](https://github.com/professor-Codephreak/theoryofeverything)
 cd theoryofeverything
-
+```
+```bash
+python3 -m venv toe
+```
+```bash
+source toe/bin/activate
+```
 # Install dependencies
+```bash
 pip install numpy scipy sympy matplotlib
 ```
 
@@ -111,22 +119,25 @@ pip install numpy scipy sympy matplotlib
 
 ### Exploring Component Formulas
 
-```bash
+
 # Run the component formulas explorer
+```bash
 python explore_toe_formulas.py
 ```
 
 ### Visualizing the Theory
 
-```bash
+
 # Run the main visualization interface
+```bash
 python visualize_toe.py
 ```
 
 ### Generating Documentation
 
-```bash
+
 # Generate a PDF with properly formatted equations
+```bash
 python create_toe_pdf.py
 ```
 
