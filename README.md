@@ -141,7 +141,7 @@ For detailed documentation, please refer to:
 
 ## Formula Verification
 
-All mathematical formulas in this project have been verified against authoritative sources in theoretical physics. Each component formula includes a link to a verified source that confirms its mathematical accuracy. The formulas maintain the integrity of the established mathematical frameworks while integrating them into a unified theory.
+A loose attempt has been made to verify all mathematical formulas in this project against authoritative sources in theoretical physics. Each component formula includes a link to a verified source that confirms its mathematical accuracy. The formulas maintain the integrity of the established mathematical frameworks while integrating them into a unified theory.
 
 The verification process included:
  Checking each formula against peer-reviewed literature and established references
