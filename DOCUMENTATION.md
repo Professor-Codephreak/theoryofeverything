@@ -465,4 +465,3 @@ Witten, E. (1995). String Theory Dynamics in Various Dimensions. Nuclear Physics
 
 
 Grand Unified Theory of Everything (c) 2025 Professor Codephreak MIT license
-editing and directional assistance Gregory L. Magnusson
